@@ -10,6 +10,24 @@ namespace c0723560
     {
         static void Main(string[] args)
         {
+            int i = 1;
+            Console.WriteLine(i + 1);
+
+            Console.ReadLine();
+
+
+
         }
     }
+  
+
+    class Peanut
+    {
+        public Peanut(string noise)
+        {
+            Console.WriteLine(noise);
+        }
+    }
+
+
 }
